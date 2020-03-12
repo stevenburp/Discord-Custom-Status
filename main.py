@@ -12,7 +12,7 @@ else:
 token = "YOUR TOKEN"
 
 while True:
-  message = input("Enter message: ")
+  message = input("mc.traancraft.nl ")
   message2 = message
 
   loop = ""
