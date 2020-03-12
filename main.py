@@ -9,7 +9,7 @@ if os.name == "nt":
 else:
     os.system("clear")
 
-token = "YOUR TOKEN"
+token = "683373916709847122"
 
 while True:
   message = input("mc.traancraft.nl ")
